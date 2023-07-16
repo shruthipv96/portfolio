@@ -4,14 +4,7 @@ theme: just-the-docs
 
 url: https://shruthipv96.github.io/portfolio
 
-aux_links:
-  Template Repository: https://github.com/shruthipv96/portfolio3
-
 permalink: pretty
-
-#logo: "/assets/images/Shruthip_Passport_Size_Photo.jpg"
-
-#favicon_ico: "/assets/images/S-V.ico"
 
 callouts_level: quiet # or loud
 callouts:
@@ -29,3 +22,6 @@ callouts:
   warning:
     title: Warning
     color: red
+
+back_to_top: true
+back_to_top_text: "Back to top"
