@@ -10,6 +10,7 @@ nav_order: 2
 ## CONTINENTAL AUTONOMOUS MOBILITY, BANGALORE _(2022 - Present)_
 {: .fs-6}
 <br>
+
 | Title        | Description         | Role | Language | Tools |
 |:-------------|:------------------|:------|:------|:-------|
 |Comprehensive Environment Modelling _(February,2022 - Present)_|ADAS is an assistance feature available in the automobile for assisting the driver like Emergency Braking Assist, Automated Parking, Lane Keep Assist, Lane Change Assist etc. As a part of the project, I have been working as a developer in modelling and tracking the environment around the vehicle. The environment includes static and dynamic objects and road information.| Sensor Fusion Developer, Product Owner (for static object modelling) |  C++, Kalman Filter, Association and Gating | Visual Studio, cmake, bricks, DOORS, Helix QAC, Gtest |
@@ -19,6 +20,7 @@ nav_order: 2
 ## RESIDEO (R&D) [Honeywell Homes], BANGALORE _(2018 - 2022)_
 {: .fs-6}
 <br>
+
 | Title        | Description         | Role | Language | Tools |
 |:-------------|:------------------|:------|:------|:-------|
 | HomeKit feature _(February,2019 - February,2022)_ | Thermostat is a device which controls the HVAC system of the home. These devices are made smart by IoT. Apple provides a method to on board any third party devices as Apple devices and this feature is called HomeKit. It Allow users to communicate with and control connected accessories in their home using third party app.(https://developer.apple.com/homekit/). The objective is to add this feature into the existing products. | Developer | C , C++ |  Wiced Studio , IAR |
