@@ -4,10 +4,19 @@ title: Additional Work
 nav_order: 5
 ---
 
-# Online Course
+# Know about my additional works
 {: .fs-8 }
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ---
-## Self Driving Course
+## Self Driving Online Course
 {: .fs-6}
 <br>
 The 6 month Udacity course helps to establish a knowledge on self driving cars.
