@@ -49,7 +49,7 @@ My vision is to use my knowledge and skills to help company achieve their long-t
 
 ---
 # Contact Me 
-{: .fs-6 }
+{: .fs-8 }
 
 {: .highlight }
 [Gmail](mailto:shruthipv619@gmail.com) - shruthipv619@gmail.com
