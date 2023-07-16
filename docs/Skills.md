@@ -4,6 +4,18 @@ title: Skills
 nav_order: 3
 ---
 
+# Know about my skills
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 # Technical
 {: .fs-8 }
 ---
