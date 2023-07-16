@@ -6,15 +6,16 @@ nav_order: 3
 
 # Online Course
 {: .fs-8 }
-
 ---
 ## Self Driving Course
-{: .fs-7 }
-
+{: .fs-6}
+<br>
+<br>
 The 6 month Udacity course helps to establish a knowledge on self driving cars.
-
-#### 1. Lane Detection [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_Lane_Detection)
-
+<br>
+<br>
+### 1. Lane Detection [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_Lane_Detection)
+<br>
 The goal is to find the lanes on the road using camera and py-OpenCV library.
 
 In the below video, the red lines(output) are marked  over the lane markings.
@@ -30,8 +31,8 @@ In the below video, the red lines(output) are marked  over the lane markings.
  </iframe>
 </center>
 
-#### 2. Advanced Lane Detection [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_AdvancedFindingLane)
-
+### 2. Advanced Lane Detection [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_AdvancedFindingLane)
+<br>
 The goal is to find the lanes on the road in a more realistic environment like shadows, curves, etc.
 
 In the below video, you can find the green area (output) indicating the lane. Additionally, the radius of curvature of the road and the offset of the vehicle from the center of the lane is also displayed.
@@ -47,16 +48,16 @@ In the below video, you can find the green area (output) indicating the lane. Ad
  </iframe>
 </center>
 
-#### 3. Traffic Sign Classifier [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_TrafficSignClassifier)
-
+### 3. Traffic Sign Classifier [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_TrafficSignClassifier)
+<br>
 The goal is to classify various traffic signs on the road using Neural Network which helps to make a decision about how to proceed our driving
 The open source German traffic sign dataset is used to train the network.
 
 In the below image,the test image against the top predictions by the trained ML model is shown.
-<center> <img src="assets/media/TrafficSignClassifier.png"> </center>
+<center> <img src="https://github.com/shruthipv96/portfolio3/assets/32814013/ee1912b8-2948-4961-85b8-1638814d7967"> </center>
 
-#### 4. Behavioural Cloning [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_BehaviouralCloning)
-
+### 4. Behavioural Cloning [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_BehaviouralCloning)
+<br>
 The goal is to clone the behaviour of our driving using deep neural network. The data was collected by driving the car by myself in the simulation.
 
 In the below video, the car is driving by self without any user input based on the model trained. Input to model is camera feed and output from model is the steer angle. (Note: The video quality is poor because it is exported from simulation)
@@ -72,13 +73,13 @@ In the below video, the car is driving by self without any user input based on t
  </iframe>
 </center>
 
-#### 5. Extended Kalman Filter [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_ExtendedKalmanFilter)
-
+### 5. Extended Kalman Filter [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_ExtendedKalmanFilter)
+<br>
 In reality, only the data from camera alone will not help to drive the car. We need to fuse Laser and Radar sensors to predict the position 
 of the vehicle. The goal is to design a Kalman filter which can be used for both linear and non-linear models to predict the value based on input from multiple sources.
 
 In the below image, the green triangle shows the predicted output. The blue and red circles indicate the input from Laser and Radar sensor.
-<center> <img src="assets/media/ExtendedKalmanFilter.JPG" width="640" height="480"> </center>
+<center> <img src="https://github.com/shruthipv96/portfolio3/assets/32814013/37652c1b-a11f-4a83-b7c8-ca65550ee6c3" width="640" height="480"> </center>
 
 ---
 ## Experimental Repositories
