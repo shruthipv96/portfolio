@@ -10,7 +10,6 @@ nav_order: 3
 ## Self Driving Course
 {: .fs-6}
 <br>
-<br>
 The 6 month Udacity course helps to establish a knowledge on self driving cars.
 <br>
 <br>
@@ -89,5 +88,16 @@ This project was developed for Hackathon to provide a smart farming solution. It
 Website is run on xampp localhost server with php mySQL as backend database.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/farmingsolution)
+
+---
+## College Projects
+
+| Project      | Description     | 
+|:-------------|:------------------|
+| Digital Power Factor Meter |The meter developed finds the power factor of the load using microcontroller(Arduino) and its interrupt function. |
+| Home Automation |  A system was developed where one can control home appliances using a smart phone. |
+| Networking of motors | A prototype was developed where two independent motors were synchronized at same speed using Arduino. |
+| Automated Cloth Protector | A system was developed to protect the clothes on terrace from rain using Arduino. |
+| LabVIEW based Robotic Arm control | A model was developed in LabVIEW interfaced with Arduino to control a two degree of freedom robotic arm |
 
 ---
