@@ -4,7 +4,7 @@ title: Experience
 nav_order: 2
 ---
 
-# Professional _(January,2018 - Present)_
+# Professional _(January, 2018 - Present)_
 {: .fs-8 }
 ---
 ## CONTINENTAL AUTONOMOUS MOBILITY, BANGALORE _(2022 - Present)_
