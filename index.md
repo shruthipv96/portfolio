@@ -19,7 +19,7 @@ To use my knowledge and skills to help company achieve their long-term goals and
 # Education
 {: .fs-8 }
 
-| Course        | Institue         | Score | Year |
+| Course        | Institute         | Score | Year |
 |:-------------|:------------------|:------|:------|
 | Executive Post Graduate Program in Machine Learning & Artificial Intelligence | International Institute of Information Technology, Bangalore | Pursuing  | 2023 |
 | Bachelor of Technology/ Electrical and Electronics Engineering | Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore   | 9.92/10 **(Gold Medal)**  | 2018 |
