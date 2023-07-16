@@ -8,7 +8,7 @@ nav_order: 6
 {: .fs-8 }
 ---
 
-{: .highlight-green}
+{: .highlight}
 > - Spot Award for performance excellency
 >
 > - Bronze Award(two) for BLE enabled devices
@@ -20,7 +20,7 @@ nav_order: 6
 > - Best Academic Performance (2016-2017)
 >
 > - Outstanding Student of the Year (2015-2016)
-{: .highlight-green}
+{: .highlight}
 
 ---
 # Achievements
