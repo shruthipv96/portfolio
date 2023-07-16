@@ -5,7 +5,7 @@ nav_order: 5
 ---
 
 # Know about my additional works
-{: .fs-8 }
+{: .fs-8, .no_toc}
 <details open markdown="block">
   <summary>
     Table of contents
