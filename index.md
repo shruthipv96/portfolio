@@ -46,16 +46,18 @@ To use my knowledge and skills to help company achieve their long-term goals and
 </dl>
 
 ---
-{: .important-title }
-># Contact Me {: .fs-6 }
->
->Gmail - shruthipv619@gmail.com
->
->Phone - +91-8438280636
->
->Resume   - [View](/assets/media/Shruthip_Venkatesh_Resume.pdf) {: .btn .btn-green }
->
->LinkedIn - [View](https://www.linkedin.com/in/shruthip-venkatesh-b1144a106/){: .btn .btn-purple }
->
->GitHub   - [View](https://github.com/shruthipv96){: .btn .btn-outline }
+# Contact Me 
+{: .fs-6 }
+
+{: .highlight }
+Gmail - shruthipv619@gmail.com
+{: .highlight }
+Phone - +91-8438280636
+{: .highlight }
+[Resume](/assets/media/Shruthip_Venkatesh_Resume.pdf) {: .btn .btn-green }
+{: .highlight }
+[LinkedIn](https://www.linkedin.com/in/shruthip-venkatesh-b1144a106/){: .btn .btn-purple }
+{: .highlight }
+[GitHub](https://github.com/shruthipv96){: .btn .btn-outline }
+
 ---
