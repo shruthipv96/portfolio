@@ -50,14 +50,15 @@ To use my knowledge and skills to help company achieve their long-term goals and
 {: .fs-6 }
 
 {: .highlight }
-[Gmail](shruthipv619@gmail.com) - shruthipv619@gmail.com
+[Gmail](mailto:shruthipv619@gmail.com) - shruthipv619@gmail.com
 {: .highlight }
-[Phone](+91-8438280636) - +91-8438280636
+[Phone](tel:+91-8438280636) - +91-8438280636
 {: .highlight }
 [Resume](assets/media/Shruthip_Venkatesh_Resume.pdf)
 {: .highlight }
 [LinkedIn](https://www.linkedin.com/in/shruthip-venkatesh-b1144a106/)
 {: .highlight }
 [GitHub](https://github.com/shruthipv96)
+{: .highlight }
 
 ---
