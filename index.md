@@ -6,13 +6,15 @@ description: "Myself and my education"
 permalink: /
 ---
 
+<center> <img src="https://github.com/shruthipv96/portfolio3/assets/32814013/a809d089-03a5-43f9-a806-aa996677372f" width="240" height="320" style="border-radius: 50%;"> </center>
+
 # Technical Specialist
 {: .fs-9 }
 # Bangalore, Karnataka, India
 {: .fs-7 }
 <br>
 <br>
-To use my knowledge and skills to help company achieve their long-term goals and in the process, I will enrich my knowledge and be updated to give a better performance.
+My vision is to use my knowledge and skills to help company achieve their long-term goals and in the process, I will enrich my knowledge and be updated to give a better performance.
 {: .fs-6 .fw-300 }
 
 ---
