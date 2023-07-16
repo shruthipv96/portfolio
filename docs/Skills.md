@@ -8,95 +8,99 @@ nav_order: 3
 {: .fs-8 }
 ---
 
-{: .important-title }
+{: .note-title }
 > Hands on experience in:
 >
-> `Sensor fusion using Kalman filter and Association for environment modelling`
+> - Sensor fusion using Kalman filter and Association for environment modelling
 >
-> `HomeKit`
+> - HomeKit
 >
-> `Bluetooth and WiFi`
+> - Bluetooth and WiFi
 >
-> `Machine Learning`
+> - Machine Learning
 >
-> `Image Processing (OpenCV)`
+> - Image Processing (OpenCV)
 >
-> `Code quality like code coverage test (Gtest), MISRA standard, tracing the requirements`
+> - Code quality like code coverage test (Gtest), MISRA standard, tracing the requirements
 >
-> `Beginner in Windows application development`
+> - Beginner in Windows application development
 <br>
 
-{: .important}
+{: .new-title}
 > Languages:
 >
-> `C`
+> - C
 > 
-> `C++`
+> - C++
 >
-> `Python`
+> - Python
 <br>
 
-{: .important}
+{: .important-title}
 > IDE:
 > 
-> `Visual Studio Professional`
+> - Visual Studio Professional
 >
-> `Visual Studio Code`
+> - Visual Studio Code
 >
-> `IAR`
+> - IAR
 > 
-> `Wiced Studio`
+> - Wiced Studio
 > 
-> `Code Composer Studio`
+> - Code Composer Studio
 > 
-> `LabVIEW`
+> - LabVIEW
 > 
-> `Arduino`
+> - Arduino
 <br>
 
-{: .important}
+{: .new-title}
 > Tools:
 >
-> `Git`
+> - Git
 > 
-> `Jira`
+> - Jira
 > 
-> `DOORS`
+> - DOORS
 > 
-> `Confluence`
+> - Confluence
 > 
-> `Bitbucket`
+> - Bitbucket
 > 
-> `SVN`
+> - SVN
 
 ---
 # Non-Technical
 {: .fs-8 }
 ---
+
 {: .highlight}
-> Team player
+> - Team player
 >
-> Good communication skills
+> - Good communication skills
 > 
-> Multitasking
+> - Multitasking
 > 
-> Organizing
+> - Organizing
 > 
-> Powerpoint presentation
+> - Powerpoint presentation
+{: .highlight}
 
 ---
 # Leadership
 {: .fs-8 }
 ---
+
 {: .highlight}
-> Product Owner for static obstacle modelling
+> - Product Owner for static obstacle modelling
 > 
-> Lead innovation activity for patent filing
+> - Lead innovation activity for patent filing
 >
-> Lead a team of 3 for a proof of concept of XY plotter based test automation
+> - Lead a team of 3 for a proof of concept of XY plotter based test automation
 >
-> Technical Co-Head of EEE department for Amrita Annual Techfest, Anokha 2017
+> - Technical Co-Head of EEE department for Amrita Annual Techfest, Anokha 2017
 >
-> Secretary for Technical Association of EEE department
+> - Secretary for Technical Association of EEE department
+{: .highlight}
 
 ---
