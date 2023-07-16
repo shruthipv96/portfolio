@@ -4,7 +4,7 @@ title: Skills
 nav_order: 3
 ---
 
-## Technical
+# Technical
 {: .fs-8 }
 ---
 
@@ -26,7 +26,7 @@ nav_order: 3
 > `Beginner in Windows application development`
 <br>
 
-{: .important-title }
+{: .important}
 > Languages:
 >
 > `C`
@@ -36,7 +36,7 @@ nav_order: 3
 > `Python`
 <br>
 
-{: .important-title }
+{: .important}
 > IDE:
 > 
 > `Visual Studio Professional`
@@ -54,7 +54,7 @@ nav_order: 3
 > `Arduino`
 <br>
 
-{: .important-title }
+{: .important}
 > Tools:
 >
 > `Git`
@@ -70,28 +70,33 @@ nav_order: 3
 > `SVN`
 
 ---
-## Non-Technical
+# Non-Technical
 {: .fs-8 }
 ---
-
-Non-Technical:
-• Team player
-• Good communication skills
-• Multitasking
-• Organizing
-• Powerpoint presentation
+{: .highlight}
+> Team player
+>
+> Good communication skills
+> 
+> Multitasking
+> 
+> Organizing
+> 
+> Powerpoint presentation
 
 ---
-## Leadership
+# Leadership
 {: .fs-8 }
 ---
-Lead innovation activity for 
-patent filing
-• Lead a team of 3 for a proof of 
-concept of XY plotter based test 
-automation
-• Technical Co-Head of EEE 
-department for Amrita Annual 
-Techfest, Anokha 2017
-• Secretary for Technical 
-Association of EEE department
+{: .highlight}
+> Product Owner for static obstacle modelling
+> 
+> Lead innovation activity for patent filing
+>
+> Lead a team of 3 for a proof of concept of XY plotter based test automation
+>
+> Technical Co-Head of EEE department for Amrita Annual Techfest, Anokha 2017
+>
+> Secretary for Technical Association of EEE department
+
+---
