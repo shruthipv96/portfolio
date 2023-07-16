@@ -5,7 +5,16 @@ nav_order: 2
 ---
 
 # Professional _(January, 2018 - Present)_
-{: .fs-8 }
+{: .fs-8 , .no_toc}
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ---
 ## CONTINENTAL AUTONOMOUS MOBILITY, BANGALORE _(2022 - Present)_
 {: .fs-6}
