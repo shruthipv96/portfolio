@@ -12,3 +12,20 @@ permalink: pretty
 #logo: "/assets/images/Shruthip_Passport_Size_Photo.jpg"
 
 #favicon_ico: "/assets/images/S-V.ico"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
