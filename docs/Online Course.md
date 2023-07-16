@@ -1,5 +1,5 @@
 ---
 layout: default
-title: GitHub Portfolio
+title: Online Course
 nav_order: 3
 ---
