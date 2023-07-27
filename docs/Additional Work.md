@@ -16,6 +16,22 @@ nav_order: 5
 </details>
 
 ---
+## Data Science projects
+{: .fs-6}
+<br>
+### 1. Lending Club Case Study [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/LendingClubCaseStudy)
+<br>
+
+- Lending club company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
+- Lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). There are two types of risks associated with the bank’s decision:
+> - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
+> - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
+- Borrowers who default cause the largest amount of loss to the lenders.
+
+**Objective**: The aim is to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default using EDA.
+
+---
+
 ## Self Driving Online Course
 {: .fs-6}
 <br>
