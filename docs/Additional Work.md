@@ -16,6 +16,7 @@ nav_order: 4
 </details>
 
 ---
+---
 ## Data Science projects
 {: .fs-6}
 <br>
@@ -30,6 +31,22 @@ nav_order: 4
 
 **Objective**: The aim is to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default using EDA.
 
+---
+
+### 2. Bike Sharing Case Study [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/BikeSharingCaseStudy)
+<br>
+
+A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.
+
+In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
+
+**The company wants to know:**
+- Which variables are significant in predicting the demand for shared bikes.
+- How well those variables describe the bike demands.
+
+**Objective:** Build a model for the demand of shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
+
+---
 ---
 
 ## Self Driving Online Course
@@ -55,6 +72,8 @@ In the below video, the red lines(output) are marked  over the lane markings.
  </iframe>
 </center>
 
+---
+
 ### 2. Advanced Lane Detection [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_AdvancedFindingLane)
 <br>
 The goal is to find the lanes on the road in a more realistic environment like shadows, curves, etc.
@@ -72,6 +91,8 @@ In the below video, you can find the green area (output) indicating the lane. Ad
  </iframe>
 </center>
 
+---
+
 ### 3. Traffic Sign Classifier [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_TrafficSignClassifier)
 <br>
 The goal is to classify various traffic signs on the road using Neural Network which helps to make a decision about how to proceed our driving
@@ -79,6 +100,8 @@ The open source German traffic sign dataset is used to train the network.
 
 In the below image,the test image against the top predictions by the trained ML model is shown.
 <center> <img src="https://github.com/shruthipv96/portfolio3/assets/32814013/ee1912b8-2948-4961-85b8-1638814d7967"> </center>
+
+---
 
 ### 4. Behavioural Cloning [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_BehaviouralCloning)
 <br>
@@ -97,6 +120,8 @@ In the below video, the car is driving by self without any user input based on t
  </iframe>
 </center>
 
+---
+
 ### 5. Extended Kalman Filter [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/CarND_Udacity_ExtendedKalmanFilter)
 <br>
 In reality, only the data from camera alone will not help to drive the car. We need to fuse Laser and Radar sensors to predict the position 
@@ -106,6 +131,8 @@ In the below image, the green triangle shows the predicted output. The blue and 
 <center> <img src="https://github.com/shruthipv96/portfolio3/assets/32814013/37652c1b-a11f-4a83-b7c8-ca65550ee6c3" width="640" height="480"> </center>
 
 ---
+---
+
 ## Experimental Repositories
 ### Farming Solution
 
@@ -115,6 +142,8 @@ Website is run on xampp localhost server with php mySQL as backend database.
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/farmingsolution)
 
 ---
+---
+
 ## College Projects
 
 | Project      | Description     | 
@@ -125,4 +154,5 @@ Website is run on xampp localhost server with php mySQL as backend database.
 | Automated Cloth Protector | A system was developed to protect the clothes on terrace from rain using Arduino. |
 | LabVIEW based Robotic Arm control | A model was developed in LabVIEW interfaced with Arduino to control a two degree of freedom robotic arm |
 
+---
 ---
