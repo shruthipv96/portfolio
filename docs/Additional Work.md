@@ -47,6 +47,20 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 **Objective:** Build a model for the demand of shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
 
 ---
+
+### 3. Sale Price of House Case Study [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/SurpriseHousing)
+<br>
+
+A US-based housing company named **Surprise Housing** has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia.
+
+**The company wants to know:**
+- Which variables are significant in predicting the price of a house.
+- How well those variables describe the price of a house.
+
+**Objective:**
+The company is looking at prospective properties to buy to enter the market. It is required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
+
+---
 ---
 
 ## Self Driving Online Course
