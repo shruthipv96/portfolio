@@ -61,6 +61,27 @@ A US-based housing company named **Surprise Housing** has decided to enter the A
 The company is looking at prospective properties to buy to enter the market. It is required to build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
 
 ---
+
+### 4. Telecom Churn Case Study [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/TelecomChurnCaseStudy)
+<br>
+
+In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+
+**Objective:**
+The main goal of the case study is to build ML models to predict churn.
+- It will be used to predict whether a high-value customer will churn or not, in near future (i.e. churn phase). By knowing this, the company can take action steps such as providing special plans, discounts on recharge etc.
+- It will be used to identify important variables that are strong predictors of churn. These variables may also indicate why customers choose to switch to other networks.
+- Recommend strategies to manage customer churn based on your observations.
+
+---
+
+### 5. Melanoma Detection Case Study [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/MelanomaDetection)
+<br>
+
+- Build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths.
+- A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+
+---
 ---
 
 ## Self Driving Online Course
