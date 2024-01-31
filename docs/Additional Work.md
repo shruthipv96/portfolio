@@ -82,6 +82,24 @@ The main goal of the case study is to build ML models to predict churn.
 - A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
 ---
+
+### 6. Gesture Recognition [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/GestureRecognition)
+<br>
+
+- Develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote. The gestures are continuously monitored by the webcam mounted on the TV.
+- Each gesture corresponds to a specific command:
+  
+| Gesture | Corresponding Action |
+| --- | --- | 
+| Thumbs Up | Increase the volume. |
+| Thumbs Down | Decrease the volume. |
+| Left Swipe | 'Jump' backwards 10 seconds. |
+| Right Swipe | 'Jump' forward 10 seconds. |
+| Stop | Pause the movie. |
+
+**Objective** : Build a model to recognize the above mentioned gestures with high accuracy.
+
+---
 ---
 
 ## Self Driving Online Course
