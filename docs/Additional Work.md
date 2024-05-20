@@ -17,9 +17,63 @@ nav_order: 4
 
 ---
 ---
+## Generative AI
+{: .fs-6}
+<br>
+### 1. ChefGPT [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/ChefGPT)
+<br>
+
+- A chatbot that can understand user preferences for food recipes and provide suggestions from a pre-existing dataset.
+
+An example conversation:
+
+<center>
+ <iframe width="920" 
+         height="500" 
+         src="https://github.com/shruthipv96/portfolio/assets/32814013/a270aaeb-6ed7-424c-87e6-83c3f3d95d1b" 
+         title="Output" 
+         frameborder="0" 
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+         allowfullscreen>
+ </iframe>
+</center>
+
+---
+---
+## Neural Network
+{: .fs-6}
+<br>
+
+### 1. Gesture Recognition [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/GestureRecognition)
+<br>
+
+- Develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote. The gestures are continuously monitored by the webcam mounted on the TV.
+- Each gesture corresponds to a specific command:
+  
+| Gesture | Corresponding Action |
+| --- | --- | 
+| Thumbs Up | Increase the volume. |
+| Thumbs Down | Decrease the volume. |
+| Left Swipe | 'Jump' backwards 10 seconds. |
+| Right Swipe | 'Jump' forward 10 seconds. |
+| Stop | Pause the movie. |
+
+**Objective** : Build a model to recognize the above mentioned gestures with high accuracy.
+
+---
+
+### 2. Melanoma Detection Case Study [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/MelanomaDetection)
+<br>
+
+- Build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths.
+- A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+  
+---
+---
 ## Data Science projects
 {: .fs-6}
 <br>
+
 ### 1. Lending Club Case Study [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/LendingClubCaseStudy)
 <br>
 
@@ -72,32 +126,6 @@ The main goal of the case study is to build ML models to predict churn.
 - It will be used to predict whether a high-value customer will churn or not, in near future (i.e. churn phase). By knowing this, the company can take action steps such as providing special plans, discounts on recharge etc.
 - It will be used to identify important variables that are strong predictors of churn. These variables may also indicate why customers choose to switch to other networks.
 - Recommend strategies to manage customer churn based on your observations.
-
----
-
-### 5. Melanoma Detection Case Study [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/MelanomaDetection)
-<br>
-
-- Build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths.
-- A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
-
----
-
-### 6. Gesture Recognition [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/GestureRecognition)
-<br>
-
-- Develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote. The gestures are continuously monitored by the webcam mounted on the TV.
-- Each gesture corresponds to a specific command:
-  
-| Gesture | Corresponding Action |
-| --- | --- | 
-| Thumbs Up | Increase the volume. |
-| Thumbs Down | Decrease the volume. |
-| Left Swipe | 'Jump' backwards 10 seconds. |
-| Right Swipe | 'Jump' forward 10 seconds. |
-| Stop | Pause the movie. |
-
-**Objective** : Build a model to recognize the above mentioned gestures with high accuracy.
 
 ---
 ---
