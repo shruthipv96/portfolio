@@ -24,7 +24,8 @@ nav_order: 4
 <br>
 
 - A chatbot that can understand user preferences for food recipes and provide suggestions from a pre-existing dataset.
-
+- LLM Model : gpt-4o
+  
 An example conversation:
 
 <center>
@@ -37,6 +38,25 @@ An example conversation:
          allowfullscreen>
  </iframe>
 </center>
+
+---
+
+### 2. FashionAI [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/FashionAI)
+<br>
+
+A generative search system (RAG model) capable of searching a plethora of fashion product descriptions to find and recommend appropriate choices against a user query.
+
+#### Models Used
+| Topic | Model |
+|:------|:------|
+| Embedding | [nomic-ai/nomic-embed-text-v1.5](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5) |
+| Cross Encoder for reranking | ms-marco-MiniLM-L-6-v2 |
+| Generative Response | gpt-3.5-turbo |
+  
+A sample output:
+
+![Query2_GenerativeSearch](https://github.com/shruthipv96/portfolio/assets/32814013/f2785527-bcee-4dc5-a56b-a915e63f16f9)
+
 
 ---
 ---
