@@ -47,9 +47,12 @@ An example conversation:
 A generative search system (RAG model) capable of searching a plethora of fashion product descriptions to find and recommend appropriate choices against a user query.
 
 **Models Used**
-- For Embedding, [nomic-ai/nomic-embed-text-v1.5](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5) |
-- For Cross Encoder for reranking, `ms-marco-MiniLM-L-6-v2`
-- For Generative Response, `gpt-3.5-turbo`
+
+| Topic | Model |
+| --- | --- |
+| Embedding | [nomic-ai/nomic-embed-text-v1.5](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5) |
+| Cross Encoder for reranking | `ms-marco-MiniLM-L-6-v2` |
+| Generative Response | `gpt-3.5-turbo` |
   
 A sample output:
 
