@@ -41,7 +41,27 @@ An example conversation:
 
 ---
 
-### 2. FashionAI [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/FashionAI)
+### 2. ArxivConsultant [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/ArxivConsultant)
+<br>
+
+This is a tool designed to assist users in retrieving and interacting with relevant research papers from the arXiv repository. It utilizes natural language processing (NLP) techniques, specifically leveraging OpenAI's GPT-3.5 model, to understand and respond to user queries about academic papers.
+
+A sample output:
+
+<center>
+ <iframe width="920" 
+         height="500" 
+         src="https://github.com/shruthipv96/portfolio/assets/32814013/23a31620-c8ab-401b-992c-76f07011d75d" 
+         title="Output" 
+         frameborder="0" 
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+         allowfullscreen>
+ </iframe>
+</center>
+
+---
+
+### 3. FashionAI [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/FashionAI)
 <br>
 
 A generative search system (RAG model) capable of searching a plethora of fashion product descriptions to find and recommend appropriate choices against a user query.
