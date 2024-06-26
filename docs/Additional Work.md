@@ -20,7 +20,7 @@ nav_order: 4
 ## Generative AI
 {: .fs-6}
 <br>
-### 1. ChefGPT [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/ChefGPT)
+### 1. ChefGPT using OpenAI LLM Models [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/ChefGPT)
 <br>
 
 - A chatbot that can understand user preferences for food recipes and provide suggestions from a pre-existing dataset.
@@ -41,12 +41,12 @@ An example conversation:
 
 ---
 
-### 2. ArxivConsultant [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/ArxivConsultant)
+### 2. ArxivConsultant using LlamaIndex [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/ArxivConsultant)
 <br>
 
-This is a tool designed to assist users in retrieving and interacting with relevant research papers from the arXiv repository. It utilizes natural language processing (NLP) techniques, specifically leveraging OpenAI's GPT-3.5 model, to understand and respond to user queries about academic papers.
+This is a tool, built with LlamaIndex components, designed to assist users in retrieving and interacting with relevant research papers from the arXiv repository. It utilizes natural language processing (NLP) techniques, specifically leveraging OpenAI's GPT-3.5 model, to understand and respond to user queries about academic papers.
 
-A sample output:
+An example conversation:
 
 <center>
  <iframe width="920" 
@@ -61,7 +61,7 @@ A sample output:
 
 ---
 
-### 3. FashionAI [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/FashionAI)
+### 3. FashionAI using RAG model [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/FashionAI)
 <br>
 
 A generative search system (RAG model) capable of searching a plethora of fashion product descriptions to find and recommend appropriate choices against a user query.
