@@ -85,7 +85,22 @@ A sample output:
 {: .fs-6}
 <br>
 
-### 1. Gesture Recognition [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/GestureRecognition)
+### 1. Eye For Blind [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/EyeForBlind)
+<br>
+
+This project focuses on creating a model that can interpret and describe visual information, making the world more accessible to those with visual impairments.
+
+The application will include the following key features:
+- **Image Captioning:** Automatically generate descriptive captions for images, providing users with a detailed understanding of the visual content.
+- **Audio Feedback:** Convert the generated captions into speech, allowing users to receive information audibly.
+
+A sample prediction looks like:
+
+![SamplePrediction](https://github.com/user-attachments/assets/e00aa298-faa4-417a-9dce-4be4733b86bc)
+
+---
+
+### 2. Gesture Recognition [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/GestureRecognition)
 <br>
 
 - Develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote. The gestures are continuously monitored by the webcam mounted on the TV.
@@ -103,7 +118,7 @@ A sample output:
 
 ---
 
-### 2. Melanoma Detection Case Study [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/MelanomaDetection)
+### 3. Melanoma Detection Case Study [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shruthipv96/MelanomaDetection)
 <br>
 
 - Build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths.
