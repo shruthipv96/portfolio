@@ -33,6 +33,8 @@ nav_order: 3
 >
 > - Image Processing (OpenCV)
 >
+> - Generative AI
+>   
 > - Code quality like code coverage test (Gtest), MISRA standard, tracing the requirements
 >
 > - Beginner in Windows application development
