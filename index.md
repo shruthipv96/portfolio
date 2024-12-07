@@ -23,7 +23,7 @@ My vision is to use my knowledge and skills to help company achieve their long-t
 
 | Course        | Institute         | Score | Year |
 |:-------------|:------------------|:------|:------|
-| Executive Post Graduate Program in Machine Learning & Artificial Intelligence | International Institute of Information Technology, Bangalore | Pursuing  | 2023 |
+| Executive Post Graduate Program in Machine Learning & Artificial Intelligence | International Institute of Information Technology, Bangalore | 3.87/4  | 2024 |
 | Bachelor of Technology/ Electrical and Electronics Engineering | Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore   | 9.92/10 **(Gold Medal)**  | 2018 |
 | Higher Secondary Education (12 th) | Petit Seminaire Higher Secondary School, Puducherry     | 98.16%   | 2014 |
 |  SSLC (10 th)           | Petit Seminaire Higher Secondary School, Puducherry | 97.2%  | 2012 |
