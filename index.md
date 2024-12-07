@@ -56,7 +56,7 @@ My vision is to use my knowledge and skills to help company achieve their long-t
 {: .highlight }
 [Phone](tel:+91-8438280636) - +91-8438280636
 {: .highlight }
-[Resume](assets/media/Shruthip_Venkatesh_Resume.pdf)
+[Resume](assets/media/Shruthip_Venkatesh_Resume_2024.pdf)
 {: .highlight }
 [LinkedIn](https://www.linkedin.com/in/shruthip-venkatesh-b1144a106/)
 {: .highlight }
